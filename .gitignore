@@ -25,6 +25,10 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+/Assets/SampleScenes/*
+/Assets/Editor/*
+/Assets/Standard Assets/*
+*.meta
 
 
 # Unity3D generated meta files
